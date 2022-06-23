@@ -7,7 +7,7 @@ A general web server inspired by [nginx](https://github.com/nginx/nginx).
 - [Introduction](#introduction)
 - [Installation](#installation)
 - [Build](#build)
-- [Licese](#license)
+- [License](#license)
 
 ## Introduction
 
@@ -53,6 +53,6 @@ $ cmake --build build --parallel 12
 $ ctest -C --verbose
 ```
 
-## Licese
+## License
 
 MIT
