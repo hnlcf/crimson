@@ -50,7 +50,7 @@ $ cmake --build build --parallel 12
 3. Run test
 
 ```
-$ ctest -C --verbose
+$ cd build && ctest -C --verbose
 ```
 
 ## License
